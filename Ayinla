@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <!-- basic -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!-- mobile metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1">
+    <title>Titilab press class</title>
+  </head>
+
+  <h1> Hello word </h1>
+  <h2> Hello word </h2>
+  <h3> Hello word </h3>
+  <h4> Hello word </h4>
+  <h5> Hello word </h5>
+  <h6> Hello word </h6>
+
+  <div> I love my mom very well </div>
+  <div> I love my mom very well </div>
+  <div> I love my mom very well </div>
+
+  <head> Titilab Rock
+
+    <head>
+
+      <header> Titilab Roack </header>
+
+      <nav>
+        <li> a </li>
+        <li> b </li>
+        <li> c </li>
+        <li> d </li>
+        <li> e </li>
+
+        <nav>
+
+          <p> I dont know the reason why i dont have money </p>
+
+          <span> Text here </span>
+
+          <hr>
+
+          <p> I dont know the reason why i dont have money </p>
+
+          <a href="" https://www.google.com " terget="_blank">
+            <button> Click me </button>
+
+						    </a>
+
+            <b>bolder </b>
+
+            <bold>bold </bold>
+
+            <h1>Me </h1>
+            <h2>Me </h2>
+            <h3>Me </h3>
+            <h4>Me </h4>
+
+            <img src="" https://www.placeholder.com/150">
+
+ 						   <label> for="Nurudeen" My button </label>
+								 <input type=" Button" name=" Nurudeen">
+
+
+            <input type=" checkedbox"> -->
+
+
+            <input type=" color">
+            <input type=" email">
+            <input type=" password">
+							  <input type=" number">
+ 								 <input type=" range">
+
+									<!--	<main id class name>
+             <div></div>
+									<div></div>
+									<div></div>
+
+							  	</main> -->
+									</ol>
+  								<ul>
+									<li> Bread </li>
+									<li> Rice	 </li>
+									<li> weat  </li>
+       			   <li> yam   </li>
+									<ul>
+            <head>
+
+       <body>
+       <h1> -
+       <h6>
+       <div>
+   			<!-- <body>
+
+       <head>
+       <header>
+       <nav>
+       <p>
+       <span>
+       <hr>
+       <a>
+       <b>
+       <bold>
+       <br>
+       <button>
+       <img>
+       <input>
+       <label>
+       <main>
+       <li>
+       <ol>
+       <ul>
+       <option>
+       <select>
+       <small>
+       <strong>
+       <table>
+       <tbody>
+       <td>
+       <th>
+       <tread>
+       <audio>
+       <video>
+       <footer>
